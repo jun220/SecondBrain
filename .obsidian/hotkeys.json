@@ -16,6 +16,38 @@
       "key": "F12"
     }
   ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "calendar:open-weekly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "periodic-notes:open-monthly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "0"
+    }
+  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
