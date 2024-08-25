@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
+                "file": "2. Study/cpp 기본문법/입출력.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
+                "file": "2. Study/cpp 기본문법/입출력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
+                "file": "2. Study/cpp 기본문법/입출력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md"
+                "file": "2. Study/cpp 기본문법/입출력.md"
               }
             }
           }
@@ -167,11 +167,12 @@
   },
   "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
-    "2. Study/바킹독/실전 알고리즘 0x02 - 기초코드2.md",
     "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
-    "2. Study/cpp 기본문법/입출력.md",
     "2. Study/cpp 기본문법/배열.md",
     "2. Study/cpp 기본문법/벡터.md",
+    "0. Inbox/Pasted image 20240825233149.png",
+    "2. Study/바킹독/실전 알고리즘 0x02 - 기초코드2.md",
+    "2. Study/cpp 기본문법/입출력.md",
     "test.md",
     "1. Diary/1. Daily/2024-08-25.md",
     "1. Diary/1. Daily/2024-08-23.md",
@@ -195,7 +196,6 @@
     "0. Inbox/Pasted image 20240822185415.png",
     "0. Inbox/Pasted image 20240822073118.png",
     "0. Inbox/Pasted image 20240822072107.png",
-    "0. Inbox/Pasted image 20240822071308.png",
     "2. Study/cpp 기본문법",
     "Obsidian/마크다운 사용법.md",
     "Obsidian/플러그인 탐색.md",
@@ -213,7 +213,6 @@
     "2. Study",
     "1. Diary",
     "Obsidian/옵시디언 사용법.md",
-    "2024-08-21.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
