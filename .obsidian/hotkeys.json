@@ -16,30 +16,6 @@
       "key": "F12"
     }
   ],
-  "periodic-notes:open-daily-note": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "1"
-    }
-  ],
-  "calendar:open-weekly-note": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
-  "periodic-notes:open-monthly-note": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "3"
-    }
-  ],
   "calendar:show-calendar-view": [
     {
       "modifiers": [
@@ -56,5 +32,59 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "obsidian-thumbnails:insert-thumbnail-from-clipboard": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "obsidian-thumbnails:insert-video-title-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "calendar:open-weekly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "periodic-notes:open-monthly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": []
 }

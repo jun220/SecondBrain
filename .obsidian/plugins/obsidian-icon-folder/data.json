@@ -5,8 +5,18 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIcons": [
+      "LiGem",
+      "LiSquareStack",
+      "LiBookmark",
+      "LiPencil",
+      "LiCalendar",
+      "LiInbox",
+      "📅",
+      "Fas0",
+      "LiArchive"
+    ],
+    "recentlyUsedIconsSize": 25,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -14,9 +24,9 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInTitlePosition": "above",
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -26,5 +36,29 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
+  },
+  "3. Record": {
+    "iconName": "LiBookmark",
+    "iconColor": "#28b4dc"
+  },
+  "0. Inbox": {
+    "iconName": "LiInbox",
+    "iconColor": "#28b4dc"
+  },
+  "1. Diary": {
+    "iconName": "LiCalendar",
+    "iconColor": "#28b4dc"
+  },
+  "2. Study": {
+    "iconName": "LiPencil",
+    "iconColor": "#28b4dc"
+  },
+  "4. Etc": {
+    "iconName": "LiSquareStack",
+    "iconColor": "#3c78f0"
+  },
+  "Obsidian": {
+    "iconName": "LiGem",
+    "iconColor": "#3c78f0"
   }
 }

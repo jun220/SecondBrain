@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bce4a50827de9f7",
+        "id": "69ae52296d954a07",
         "type": "tabs",
         "children": [
           {
-            "id": "efcd8bf843b35012",
+            "id": "33dbfcffea06e5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/옵시디언 단축키.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x02 - 기초코드2.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,15 +22,19 @@
         ]
       },
       {
-        "id": "fe486efec94f94f1",
+        "id": "4b658cd96d0dce02",
         "type": "tabs",
         "children": [
           {
-            "id": "0553b47f7b07b1e3",
+            "id": "f42c8a65ce761977",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/옵시디언 단축키.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -134,17 +138,15 @@
             }
           },
           {
-            "id": "e358a66ac06baaaf",
+            "id": "2adf18e720a1fb81",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian/옵시디언 단축키.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
-            "id": "75ada1e83c302937",
+            "id": "6cc5d2d3eb32dcaa",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -152,11 +154,13 @@
             }
           },
           {
-            "id": "2adf18e720a1fb81",
+            "id": "12f7491ba899b09b",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/옵시디언 단축키.md"
+              }
             }
           }
         ],
@@ -164,40 +168,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "random-note:랜덤 노트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "media-extended:Open media": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2867c98814a9f8f",
+  "active": "f42c8a65ce761977",
   "lastOpenFiles": [
+    "Obsidian/template/바킹독의 실전 알고리즘.md",
+    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+    "2. Study/바킹독/실전 알고리즘 0x02 - 기초코드2.md",
+    "0. Inbox/Pasted image 20240822191309.png",
+    "0. Inbox/Pasted image 20240822191141.png",
+    "0. Inbox/Pasted image 20240822190642.png",
+    "0. Inbox/Pasted image 20240822190618.png",
+    "0. Inbox/Pasted image 20240822190453.png",
+    "2. Study/바킹독/무제 파일 2.md",
+    "2. Study/바킹독/무제 파일 1.md",
+    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
+    "2. Study/바킹독/실전 알고리즘 0x01 - 기초코드1.md",
+    "Obsidian/template",
+    "0. Inbox/Pasted image 20240822185415.png",
+    "0. Inbox/Pasted image 20240822073118.png",
+    "0. Inbox/Pasted image 20240822072107.png",
+    "0. Inbox/Pasted image 20240822071308.png",
+    "2. Study/cpp 기본문법/배열.md",
+    "2. Study/cpp 기본문법",
+    "0. Inbox/Pasted image 20240822070022.png",
+    "Obsidian/마크다운 사용법.md",
+    "1. Diary/1. Daily/2024-08-22.md",
+    "Obsidian/플러그인 탐색.md",
+    "1. Diary/3. Monthly/2024-08.md",
+    "1. Diary/2. Weekly/2024-W34.md",
+    "0. Inbox/channels4_profile.jpg.crdownload",
+    "3. Record/유튜브/썸네일 테스트.md",
+    "4. Etc/무제 파일.canvas",
+    "3. Record/유튜브",
+    "무제 파일.md",
+    "4. Etc",
+    "3. Record",
+    "Obsidian/옵시디언 단축키.md",
+    "2. Study/바킹독/실전 알고리즘-0x00",
+    "2. Study/바킹독",
     "2. Study",
     "1. Diary",
     "Obsidian/옵시디언 사용법.md",
-    "Obsidian/옵시디언 단축키.md",
-    "1. Diary/3. Monthly/2024-08.md",
-    "1. Diary/2. Weekly/2024-W34.md",
-    "1. Diary/1. Daily/2024-08-22.md",
     "1. Diary/1. Daily/2024-08-21.md",
     "2024-08-21.md",
-    "Obsidian/마크다운 사용법.md",
-    "0. Inbox/Pasted image 20240821233038.png",
-    "무제 파일.md",
-    "Obsidian",
-    "0. Inbox",
-    "1. Diary/3. Monthly",
-    "1. Diary/2. Weekly",
-    "1. Diary/1. Daily",
     "Welcome.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
