@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6d80e8458dc61cda",
+        "id": "a51b5f0ffb4fb6c8",
         "type": "tabs",
         "children": [
           {
-            "id": "252890900bc0963b",
+            "id": "4775d5c97bdd0696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "test.md"
-          }
+          "state": {}
         }
       },
       {
@@ -141,8 +133,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "252890900bc0963b",
+  "active": "4775d5c97bdd0696",
   "lastOpenFiles": [
+    "test.md",
     "1. Diary/1. Daily/2024-08-24.md",
     "/1. Diary/1. Daily/2024-08-24.md",
     "1. Diary/1. Daily/2024-08-25.md",
