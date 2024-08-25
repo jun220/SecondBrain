@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/옵시디언 단축키.md",
+                "file": "1. Diary/1. Daily/2024-08-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "de81d6da25d85fe0",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/옵시디언 단축키.md",
+                "file": "1. Diary/1. Daily/2024-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/옵시디언 단축키.md",
+                "file": "1. Diary/1. Daily/2024-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/옵시디언 단축키.md"
+                "file": "1. Diary/1. Daily/2024-08-25.md"
               }
             }
           }
@@ -172,19 +172,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "random-note:랜덤 노트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "media-extended:Open media": false
     }
   },
   "active": "f42c8a65ce761977",
   "lastOpenFiles": [
+    "test.md",
+    "1. Diary/1. Daily/2024-08-23.md",
+    "1. Diary/1. Daily/2024-08-25.md",
+    "0. Inbox/Pasted image 20240825201240.png",
+    "1. Diary/1. Daily/2024-08-24.md",
+    "1. Diary/1. Daily/2024-08-22.md",
+    "1. Diary/1. Daily/2024-08-21.md",
+    "Obsidian/옵시디언 단축키.md",
     "Obsidian/template/바킹독의 실전 알고리즘.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x02 - 기초코드2.md",
@@ -204,9 +212,7 @@
     "0. Inbox/Pasted image 20240822071308.png",
     "2. Study/cpp 기본문법/배열.md",
     "2. Study/cpp 기본문법",
-    "0. Inbox/Pasted image 20240822070022.png",
     "Obsidian/마크다운 사용법.md",
-    "1. Diary/1. Daily/2024-08-22.md",
     "Obsidian/플러그인 탐색.md",
     "1. Diary/3. Monthly/2024-08.md",
     "1. Diary/2. Weekly/2024-W34.md",
@@ -217,13 +223,11 @@
     "무제 파일.md",
     "4. Etc",
     "3. Record",
-    "Obsidian/옵시디언 단축키.md",
     "2. Study/바킹독/실전 알고리즘-0x00",
     "2. Study/바킹독",
     "2. Study",
     "1. Diary",
     "Obsidian/옵시디언 사용법.md",
-    "1. Diary/1. Daily/2024-08-21.md",
     "2024-08-21.md",
     "Welcome.md",
     "Untitled.canvas",
