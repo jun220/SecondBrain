@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "",
+    "template": "Obsidian/template/일일 노트.md",
     "folder": "1. Diary/1. Daily",
     "enabled": true
   },

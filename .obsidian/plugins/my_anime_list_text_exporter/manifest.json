@@ -1,0 +1,12 @@
+{
+	"id": "my_anime_list_text_exporter",
+	"name": "my anime list text exporter",
+	"version": "1.2.0",
+	"minAppVersion": "0.15.0",
+	"description": "add anime data for your notes",
+	"author": "XmoncocoX",
+	"authorUrl": "https://www.github.com/Xmoncoco",
+	"fundingUrl": "https://ko-fi.com/xmoncocox",
+	"isDesktopOnly": false
+}
+

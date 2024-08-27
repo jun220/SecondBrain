@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce87e225eb833422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf7debe47d270056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,9 +190,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b5ea0bf861b2c42",
+  "active": "bf7debe47d270056",
   "lastOpenFiles": [
+    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+    "conflict-files-obsidian-git.md",
+    "무제 파일.md",
+    "Obsidian/template/일일 노트.md",
+    "3. Record/유튜브/유니티 알쓸유잡.md",
+    "3. Record/유튜브/나중에 볼 동영상.md",
+    "3. Record/나중에 볼 글.md",
+    "2. Study/알쓸유잡/알쓸유잡 - 야 너두 쉐이더 개발할 수 있어!.md",
+    "2. Study/알쓸유잡",
+    "1. Diary/1. Daily/2024-08-27.md",
+    "1. Diary/1. Daily/2024-08-26.md",
+    "0. Inbox/Pasted image 20240827105300.png",
+    "0. Inbox/Pasted image 20240827105250.png",
+    "0. Inbox/Pasted image 20240827095403.png",
     "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
     "2. Study/cpp 기본문법/입출력.md",
     "2. Study/cpp 기본문법/배열.md",
@@ -189,30 +229,16 @@
     "0. Inbox/Pasted image 20240822190618.png",
     "0. Inbox/Pasted image 20240822190453.png",
     "2. Study/바킹독/무제 파일 2.md",
-    "2. Study/바킹독/무제 파일 1.md",
-    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
-    "2. Study/바킹독/실전 알고리즘 0x01 - 기초코드1.md",
     "Obsidian/template",
-    "0. Inbox/Pasted image 20240822185415.png",
-    "0. Inbox/Pasted image 20240822073118.png",
-    "0. Inbox/Pasted image 20240822072107.png",
     "2. Study/cpp 기본문법",
-    "Obsidian/마크다운 사용법.md",
-    "Obsidian/플러그인 탐색.md",
-    "1. Diary/3. Monthly/2024-08.md",
-    "1. Diary/2. Weekly/2024-W34.md",
     "0. Inbox/channels4_profile.jpg.crdownload",
-    "3. Record/유튜브/썸네일 테스트.md",
     "4. Etc/무제 파일.canvas",
     "3. Record/유튜브",
-    "무제 파일.md",
     "4. Etc",
     "3. Record",
     "2. Study/바킹독/실전 알고리즘-0x00",
     "2. Study/바킹독",
     "2. Study",
-    "1. Diary",
-    "Obsidian/옵시디언 사용법.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
