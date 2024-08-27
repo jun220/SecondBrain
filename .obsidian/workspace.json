@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md"
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md"
               }
             }
           }
@@ -183,11 +183,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "33dbfcffea06e5af",
+  "active": "f42c8a65ce761977",
   "lastOpenFiles": [
     "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
-    "Obsidian/플러그인 탐색.md",
     "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+    "0. Inbox/Pasted image 20240827095403.png",
+    "무제 파일.md",
+    "Obsidian/플러그인 탐색.md",
     "test.md",
     "private/anime list.md",
     "private/중2병이라도 사랑이 하고싶어.md",
@@ -211,8 +213,6 @@
     "2. Study/알쓸유잡/알쓸유잡 - 야 너두 쉐이더 개발할 수 있어!.md",
     "2. Study/알쓸유잡",
     "Obsidian/옵시디언 단축키.md",
-    "2. Study/cpp 기본문법/입출력.md",
-    "2. Study/cpp 기본문법/벡터.md",
     "0. Inbox/Pasted image 20240825233149.png",
     "0. Inbox/Pasted image 20240825201240.png",
     "0. Inbox/Pasted image 20240822191309.png",
@@ -223,7 +223,6 @@
     "Obsidian/template",
     "0. Inbox/Pasted image 20240822185415.png",
     "0. Inbox/Pasted image 20240822073118.png",
-    "0. Inbox/Pasted image 20240822072107.png",
     "2. Study/cpp 기본문법",
     "0. Inbox/channels4_profile.jpg.crdownload",
     "4. Etc/무제 파일.canvas",
