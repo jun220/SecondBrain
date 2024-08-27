@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 배열.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/플러그인 탐색.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/플러그인 탐색.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/플러그인 탐색.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/플러그인 탐색.md"
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md"
               }
             }
           }
@@ -183,8 +183,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f42c8a65ce761977",
+  "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
+    "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
+    "Obsidian/플러그인 탐색.md",
+    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "test.md",
     "private/anime list.md",
     "private/중2병이라도 사랑이 하고싶어.md",
@@ -204,8 +207,6 @@
     "1. Diary/1. Daily/2024-08-23.md",
     "1. Diary/1. Daily/2024-08-22.md",
     "1. Diary/1. Daily/2024-08-21.md",
-    "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
-    "2. Study/바킹독/실전 알고리즘 0x04 - 배열.md",
     "2. Study/바킹독/실전 알고리즘 0x02 - 기초코드2.md",
     "2. Study/알쓸유잡/알쓸유잡 - 야 너두 쉐이더 개발할 수 있어!.md",
     "2. Study/알쓸유잡",
@@ -214,7 +215,6 @@
     "2. Study/cpp 기본문법/벡터.md",
     "0. Inbox/Pasted image 20240825233149.png",
     "0. Inbox/Pasted image 20240825201240.png",
-    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "0. Inbox/Pasted image 20240822191309.png",
     "0. Inbox/Pasted image 20240822191141.png",
     "0. Inbox/Pasted image 20240822190642.png",
