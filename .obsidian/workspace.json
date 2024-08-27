@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md"
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,14 +164,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "470ec220e9fa5663",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,8 +200,8 @@
   },
   "active": "bf7debe47d270056",
   "lastOpenFiles": [
-    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
     "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "conflict-files-obsidian-git.md",
     "무제 파일.md",
