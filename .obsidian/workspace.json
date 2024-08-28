@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
-                "mode": "preview",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md"
+                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md"
               }
             }
           }
@@ -185,11 +185,13 @@
   },
   "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20240828154712.png",
+    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+    "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
+    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "2. Study/cpp 기본문법/벡터.md",
     "2. Study/cpp 기본문법/리스트.md",
-    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "1. Diary/1. Daily/2024-08-28.md",
-    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "1. Diary/1. Daily/2024-08-27.md",
     "0. Inbox/Pasted image 20240827105300.png",
     "0. Inbox/Pasted image 20240827105250.png",
@@ -213,8 +215,6 @@
     "1. Diary/1. Daily/2024-08-25.md",
     "1. Diary/1. Daily/2024-08-24.md",
     "1. Diary/1. Daily/2024-08-23.md",
-    "1. Diary/1. Daily/2024-08-22.md",
-    "1. Diary/1. Daily/2024-08-21.md",
     "2. Study/알쓸유잡",
     "0. Inbox/Pasted image 20240825233149.png",
     "0. Inbox/Pasted image 20240825201240.png",
