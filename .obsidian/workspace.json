@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "4b658cd96d0dce02",
+        "id": "63c8663e8c3b9828",
         "type": "tabs",
         "children": [
           {
-            "id": "f42c8a65ce761977",
+            "id": "7b9f21a2ff13d3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md"
+                "file": "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md"
               }
             }
           }
@@ -185,9 +185,12 @@
   },
   "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
-    "0. Inbox/Pasted image 20240828154712.png",
+    "0. Inbox/Pasted image 20240831223939.png",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+    "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
+    "1. Diary/1. Daily/2024-08-31.md",
     "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
+    "0. Inbox/Pasted image 20240828154712.png",
     "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "2. Study/cpp 기본문법/벡터.md",
     "2. Study/cpp 기본문법/리스트.md",
@@ -213,8 +216,6 @@
     "Obsidian/template/일일 노트.md",
     "Obsidian/template/바킹독의 실전 알고리즘.md",
     "1. Diary/1. Daily/2024-08-25.md",
-    "1. Diary/1. Daily/2024-08-24.md",
-    "1. Diary/1. Daily/2024-08-23.md",
     "2. Study/알쓸유잡",
     "0. Inbox/Pasted image 20240825233149.png",
     "0. Inbox/Pasted image 20240825201240.png",
@@ -222,7 +223,6 @@
     "0. Inbox/Pasted image 20240822191141.png",
     "0. Inbox/Pasted image 20240822190642.png",
     "0. Inbox/Pasted image 20240822190618.png",
-    "0. Inbox/Pasted image 20240822190453.png",
     "Obsidian/template",
     "2. Study/cpp 기본문법",
     "0. Inbox/channels4_profile.jpg.crdownload",
