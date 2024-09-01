@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
+                "file": "1. Diary/1. Daily/2024-09-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md"
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,18 +183,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "33dbfcffea06e5af",
+  "active": "7b9f21a2ff13d3f5",
   "lastOpenFiles": [
+    "1. Diary/1. Daily/2024-09-02.md",
+    "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
     "0. Inbox/Pasted image 20240902064034.png",
     "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
     "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
     "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
-    "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "1. Diary/2. Weekly/2024-W36.md",
     "1. Diary/2. Weekly/2024-W34.md",
-    "1. Diary/1. Daily/2024-09-02.md",
     "0. Inbox/Pasted image 20240831223939.png",
     "1. Diary/1. Daily/2024-08-31.md",
     "0. Inbox/Pasted image 20240828154712.png",
@@ -222,7 +222,6 @@
     "0. Inbox/Pasted image 20240825201240.png",
     "0. Inbox/Pasted image 20240822191309.png",
     "0. Inbox/Pasted image 20240822191141.png",
-    "0. Inbox/Pasted image 20240822190642.png",
     "Obsidian/template",
     "2. Study/cpp 기본문법",
     "0. Inbox/channels4_profile.jpg.crdownload",
