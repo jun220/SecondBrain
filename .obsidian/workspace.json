@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md"
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,10 +183,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "33dbfcffea06e5af",
+  "active": "2adf18e720a1fb81",
   "lastOpenFiles": [
-    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
+    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "1. Diary/2. Weekly/2024-W36.md",
     "1. Diary/2. Weekly/2024-W34.md",
     "1. Diary/1. Daily/2024-09-02.md",
