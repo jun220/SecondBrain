@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+                "file": "2. Study/백준/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+                "file": "2. Study/백준/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+                "file": "2. Study/백준/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md"
+                "file": "2. Study/백준/무제 파일.md"
               }
             }
           }
@@ -185,11 +185,13 @@
   },
   "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
+    "1. Diary/1. Daily/2024-09-10.md",
+    "2. Study/백준/무제 파일.md",
+    "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+    "2. Study/백준",
     "0. Inbox/Pasted image 20240910232910.png",
     "0. Inbox/Pasted image 20240910232853.png",
     "1. Diary/1. Daily/2024-09-02.md",
-    "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
-    "1. Diary/1. Daily/2024-09-10.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
     "0. Inbox/Pasted image 20240902064034.png",
@@ -222,7 +224,6 @@
     "2. Study/알쓸유잡",
     "0. Inbox/Pasted image 20240825233149.png",
     "0. Inbox/Pasted image 20240825201240.png",
-    "0. Inbox/Pasted image 20240822191309.png",
     "Obsidian/template",
     "2. Study/cpp 기본문법",
     "0. Inbox/channels4_profile.jpg.crdownload",
@@ -231,7 +232,6 @@
     "4. Etc",
     "3. Record",
     "2. Study/바킹독/실전 알고리즘-0x00",
-    "2. Study/바킹독",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
