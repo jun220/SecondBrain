@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Diary/1. Daily/2024-09-02.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "1. Diary/1. Daily/2024-09-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md"
+                "file": "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md"
               }
             }
           }
@@ -183,16 +183,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7b9f21a2ff13d3f5",
+  "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20240910232910.png",
+    "0. Inbox/Pasted image 20240910232853.png",
     "1. Diary/1. Daily/2024-09-02.md",
+    "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+    "1. Diary/1. Daily/2024-09-10.md",
+    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
     "0. Inbox/Pasted image 20240902064034.png",
     "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
     "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
     "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
-    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "1. Diary/2. Weekly/2024-W36.md",
     "1. Diary/2. Weekly/2024-W34.md",
     "0. Inbox/Pasted image 20240831223939.png",
@@ -215,13 +219,10 @@
     "private",
     "3. Record/유튜브/나중에 볼 동영상.md",
     "3. Record/유튜브/유니티 알쓸유잡.md",
-    "3. Record/유튜브/썸네일 테스트.md",
-    "Obsidian/옵시디언 사용법.md",
     "2. Study/알쓸유잡",
     "0. Inbox/Pasted image 20240825233149.png",
     "0. Inbox/Pasted image 20240825201240.png",
     "0. Inbox/Pasted image 20240822191309.png",
-    "0. Inbox/Pasted image 20240822191141.png",
     "Obsidian/template",
     "2. Study/cpp 기본문법",
     "0. Inbox/channels4_profile.jpg.crdownload",
