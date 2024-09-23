@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/스케치업 공부.md",
+                "file": "2. Study/오브젝트 풀링.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/스케치업 공부.md",
+                "file": "2. Study/오브젝트 풀링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/스케치업 공부.md",
+                "file": "2. Study/오브젝트 풀링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/스케치업 공부.md"
+                "file": "2. Study/오브젝트 풀링.md"
               }
             }
           }
@@ -167,6 +167,9 @@
   },
   "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
+    "1. Diary/1. Daily/2024-09-23.md",
+    "2. Study/오브젝트 풀링.md",
+    "2. Study/스케치업 공부.md",
     "0. Inbox/Pasted image 20240921193542.png",
     "0. Inbox/Pasted image 20240921193438.png",
     "0. Inbox/Pasted image 20240921193144.png",
@@ -176,7 +179,6 @@
     "Obsidian/마크다운 사용법.md",
     "Obsidian/옵시디언 사용법.md",
     "Obsidian/옵시디언 단축키.md",
-    "2. Study/스케치업 공부.md",
     "0. Inbox/Pasted image 20240921185548.png",
     "0. Inbox/Pasted image 20240921185436.png",
     "0. Inbox/Pasted image 20240921185351.png",
@@ -185,7 +187,6 @@
     "1. Diary/1. Daily/2024-09-10.md",
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
     "2. Study/백준",
-    "0. Inbox/Pasted image 20240910232910.png",
     "1. Diary/1. Daily/2024-09-02.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
@@ -203,7 +204,6 @@
     "무제 파일.md",
     "Obsidian/플러그인 탐색.md",
     "test.md",
-    "private/anime list.md",
     "private",
     "2. Study/알쓸유잡",
     "Obsidian/template",
