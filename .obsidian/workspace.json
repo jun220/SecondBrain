@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a20a9630d6974d1a",
+        "id": "69ae52296d954a07",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5ea0bf861b2c42",
+            "id": "33dbfcffea06e5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce87e225eb833422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7debe47d270056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Diary/1. Daily/2024-08-27.md",
+                "file": "2. Study/오브젝트 풀링.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "de81d6da25d85fe0",
@@ -104,6 +79,35 @@
         "id": "46031fc986dd5af4",
         "type": "tabs",
         "children": [
+          {
+            "id": "b84ca1a3e20f3f95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Study/오브젝트 풀링.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cab902d839bd479",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Study/오브젝트 풀링.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "49c6f7b8ef082bbd",
             "type": "leaf",
@@ -116,18 +120,18 @@
             }
           },
           {
-            "id": "6cc5d2d3eb32dcaa",
+            "id": "2adf18e720a1fb81",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "33dbfcffea06e5af",
+            "id": "6cc5d2d3eb32dcaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {}
             }
           },
@@ -137,49 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Diary/1. Daily/2024-08-27.md"
+                "file": "2. Study/오브젝트 풀링.md"
               }
-            }
-          },
-          {
-            "id": "a72846bc269d7578",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1. Diary/1. Daily/2024-08-27.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "30e5a8b06e1b1d02",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1. Diary/1. Daily/2024-08-27.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "470ec220e9fa5663",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,56 +154,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "media-extended:Open media": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "bf7debe47d270056",
+  "active": "33dbfcffea06e5af",
   "lastOpenFiles": [
-    "1. Diary/2. Weekly/2024-W34.md",
-    "Obsidian/옵시디언 단축키.md",
-    "Obsidian/template/일일 노트.md",
-    "Obsidian/template/바킹독의 실전 알고리즘.md",
-    "1. Diary/1. Daily/2024-08-27.md",
+    "0. Inbox/Pasted image 20240923215117.png",
+    "0. Inbox/Pasted image 20240923214856.png",
+    "1. Diary/1. Daily/2024-09-23.md",
+    "2. Study/오브젝트 풀링.md",
+    "2. Study/스케치업 공부.md",
+    "0. Inbox/Pasted image 20240921193542.png",
+    "0. Inbox/Pasted image 20240921193438.png",
+    "0. Inbox/Pasted image 20240921193144.png",
+    "0. Inbox/Pasted image 20240921191754.png",
+    "0. Inbox/Pasted image 20240921191626.png",
+    "0. Inbox/Pasted image 20240921190758.png",
     "Obsidian/마크다운 사용법.md",
-    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+    "Obsidian/옵시디언 사용법.md",
+    "Obsidian/옵시디언 단축키.md",
+    "0. Inbox/Pasted image 20240921185548.png",
+    "0. Inbox/Pasted image 20240921185436.png",
+    "0. Inbox/Pasted image 20240921185351.png",
+    "2. Study/백준/무제 파일.md",
+    "1. Diary/1. Daily/2024-09-10.md",
+    "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+    "2. Study/백준",
+    "1. Diary/1. Daily/2024-09-02.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
-    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
-    "conflict-files-obsidian-git.md",
-    "무제 파일.md",
-    "3. Record/유튜브/유니티 알쓸유잡.md",
-    "3. Record/유튜브/나중에 볼 동영상.md",
-    "3. Record/나중에 볼 글.md",
-    "2. Study/알쓸유잡/알쓸유잡 - 야 너두 쉐이더 개발할 수 있어!.md",
-    "2. Study/알쓸유잡",
-    "1. Diary/1. Daily/2024-08-26.md",
-    "0. Inbox/Pasted image 20240827105300.png",
-    "0. Inbox/Pasted image 20240827105250.png",
-    "0. Inbox/Pasted image 20240827095403.png",
+    "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
+    "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
+    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
+    "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
     "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
-    "2. Study/cpp 기본문법/입출력.md",
-    "2. Study/cpp 기본문법/배열.md",
+    "1. Diary/2. Weekly/2024-W36.md",
+    "1. Diary/2. Weekly/2024-W34.md",
+    "1. Diary/1. Daily/2024-08-31.md",
     "2. Study/cpp 기본문법/벡터.md",
-    "0. Inbox/Pasted image 20240825233149.png",
-    "2. Study/바킹독/실전 알고리즘 0x02 - 기초코드2.md",
-    "test.md",
-    "1. Diary/1. Daily/2024-08-25.md",
-    "1. Diary/1. Daily/2024-08-23.md",
-    "0. Inbox/Pasted image 20240825201240.png",
-    "1. Diary/1. Daily/2024-08-24.md",
-    "1. Diary/1. Daily/2024-08-22.md",
-    "0. Inbox/Pasted image 20240822191309.png",
-    "0. Inbox/Pasted image 20240822191141.png",
-    "0. Inbox/Pasted image 20240822190642.png",
-    "0. Inbox/Pasted image 20240822190618.png",
-    "0. Inbox/Pasted image 20240822190453.png",
+    "2. Study/cpp 기본문법/리스트.md",
+    "1. Diary/1. Daily/2024-08-28.md",
+    "1. Diary/1. Daily/2024-08-27.md",
+    "무제 파일.md",
+    "Obsidian/플러그인 탐색.md",
+    "private",
+    "2. Study/알쓸유잡",
     "Obsidian/template",
     "2. Study/cpp 기본문법",
     "0. Inbox/channels4_profile.jpg.crdownload",
@@ -245,8 +214,6 @@
     "4. Etc",
     "3. Record",
     "2. Study/바킹독/실전 알고리즘-0x00",
-    "2. Study/바킹독",
-    "2. Study",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
