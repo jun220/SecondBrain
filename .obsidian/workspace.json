@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/유니티 애니메이션.md",
+                "file": "2. Study/자바프로그래밍/자바 1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/유니티 애니메이션.md",
+                "file": "2. Study/자바프로그래밍/자바 1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/유니티 애니메이션.md",
+                "file": "2. Study/자바프로그래밍/자바 1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/유니티 애니메이션.md"
+                "file": "2. Study/자바프로그래밍/자바 1주차.md"
               }
             }
           }
@@ -165,12 +165,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "33dbfcffea06e5af",
+  "active": "f2867c98814a9f8f",
   "lastOpenFiles": [
-    "2. Study/자바프로그래밍/자바 1주차.md",
-    "2. Study/유니티 애니메이션.md",
-    "0. Inbox/Pasted image 20241005200945.png",
     "2. Study/오브젝트 풀링.md",
+    "2. Study/유니티 애니메이션.md",
+    "2. Study/백준/무제 파일.md",
+    "2. Study/자바프로그래밍/자바 1주차.md",
+    "0. Inbox/Pasted image 20241005200945.png",
     "2. Study/자바프로그래밍",
     "0. Inbox/Pasted image 20241004202050.png",
     "0. Inbox/Pasted image 20241004202026.png",
@@ -187,7 +188,6 @@
     "Obsidian/마크다운 사용법.md",
     "Obsidian/옵시디언 사용법.md",
     "Obsidian/옵시디언 단축키.md",
-    "2. Study/백준/무제 파일.md",
     "1. Diary/1. Daily/2024-09-10.md",
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
     "2. Study/백준",
