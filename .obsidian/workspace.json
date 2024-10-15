@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/자바프로그래밍/자바 6주차.md",
+                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/자바프로그래밍/자바 6주차.md",
+                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/자바프로그래밍/자바 6주차.md",
+                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/자바프로그래밍/자바 6주차.md"
+                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md"
               }
             }
           }
@@ -168,19 +168,21 @@
   },
   "active": "6a10a0817cdb5b15",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20241015154249.png",
+    "0. Inbox/Pasted image 20241015154222.png",
+    "0. Inbox/Pasted image 20241015154154.png",
+    "0. Inbox/Pasted image 20241015152052.png",
+    "0. Inbox/Pasted image 20241015151601.png",
+    "2. Study/자바프로그래밍/자바 6주차.md",
+    "2. Study/선형대수/1강. 행렬과 행렬식.md",
+    "2. Study/선형대수",
     "0. Inbox/Pasted image 20241010122315.png",
     "0. Inbox/Pasted image 20241010122218.png",
     "0. Inbox/Pasted image 20241010121857.png",
     "0. Inbox/Pasted image 20241010121557.png",
     "0. Inbox/Pasted image 20241010121548.png",
     "0. Inbox/Pasted image 20241010115504.png",
-    "0. Inbox/Pasted image 20241010115449.png",
-    "0. Inbox/Pasted image 20241010114138.png",
-    "0. Inbox/Pasted image 20241010113834.png",
     "2. Study/자바프로그래밍/자바 1&2주차.md",
-    "2. Study/자바프로그래밍/자바 6주차.md",
-    "0. Inbox/Pasted image 20241005224013.png",
-    "0. Inbox/Pasted image 20241005223825.png",
     "1. Diary/1. Daily/2024-10-05.md",
     "2. Study/오브젝트 풀링.md",
     "2. Study/유니티 애니메이션.md",
@@ -205,7 +207,6 @@
     "1. Diary/2. Weekly/2024-W36.md",
     "1. Diary/2. Weekly/2024-W34.md",
     "1. Diary/1. Daily/2024-08-31.md",
-    "2. Study/cpp 기본문법/벡터.md",
     "private",
     "2. Study/알쓸유잡",
     "Obsidian/template",
@@ -214,7 +215,6 @@
     "4. Etc/무제 파일.canvas",
     "3. Record/유튜브",
     "4. Etc",
-    "3. Record",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
