@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md",
+                "file": "2. Study/시스템프로그래밍/1강. C언어.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "de81d6da25d85fe0",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md",
+                "file": "2. Study/시스템프로그래밍/1강. C언어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md",
+                "file": "2. Study/시스템프로그래밍/1강. C언어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/선형대수/1강. 행렬과 행렬식.md"
+                "file": "2. Study/시스템프로그래밍/1강. C언어.md"
               }
             }
           }
@@ -168,6 +167,13 @@
   },
   "active": "6a10a0817cdb5b15",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20241016234045.png",
+    "0. Inbox/Pasted image 20241016232711.png",
+    "0. Inbox/Pasted image 20241016232224.png",
+    "0. Inbox/Pasted image 20241016232100.png",
+    "2. Study/선형대수/1강. 행렬과 행렬식.md",
+    "2. Study/시스템프로그래밍/1강. C언어.md",
+    "2. Study/시스템프로그래밍",
     "0. Inbox/Pasted image 20241015160319.png",
     "0. Inbox/Pasted image 20241015160301.png",
     "0. Inbox/Pasted image 20241015155944.png",
@@ -175,12 +181,7 @@
     "0. Inbox/Pasted image 20241015155659.png",
     "0. Inbox/Pasted image 20241015155436.png",
     "0. Inbox/Pasted image 20241015154927.png",
-    "0. Inbox/Pasted image 20241015154756.png",
-    "0. Inbox/Pasted image 20241015154249.png",
-    "0. Inbox/Pasted image 20241015154222.png",
-    "0. Inbox/Pasted image 20241015154154.png",
     "2. Study/자바프로그래밍/자바 6주차.md",
-    "2. Study/선형대수/1강. 행렬과 행렬식.md",
     "2. Study/선형대수",
     "2. Study/자바프로그래밍/자바 1&2주차.md",
     "1. Diary/1. Daily/2024-10-05.md",
@@ -206,7 +207,6 @@
     "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
     "1. Diary/2. Weekly/2024-W36.md",
     "1. Diary/2. Weekly/2024-W34.md",
-    "1. Diary/1. Daily/2024-08-31.md",
     "private",
     "2. Study/알쓸유잡",
     "Obsidian/template",
@@ -214,7 +214,6 @@
     "0. Inbox/channels4_profile.jpg.crdownload",
     "4. Etc/무제 파일.canvas",
     "3. Record/유튜브",
-    "4. Etc",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
