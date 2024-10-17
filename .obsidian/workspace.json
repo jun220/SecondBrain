@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "e947ebb9cd632118",
+        "id": "a20a9630d6974d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "6a10a0817cdb5b15",
+            "id": "5b5ea0bf861b2c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/오픈소스프로그래밍/오픈소스 필기.md",
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce87e225eb833422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf7debe47d270056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Study/시스템프로그래밍/1강. C언어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "264d2e90ec636b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Study/시스템프로그래밍/3강. Floating Point.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -80,35 +117,6 @@
         "id": "46031fc986dd5af4",
         "type": "tabs",
         "children": [
-          {
-            "id": "b84ca1a3e20f3f95",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2. Study/오픈소스프로그래밍/오픈소스 필기.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6cab902d839bd479",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2. Study/오픈소스프로그래밍/오픈소스 필기.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "49c6f7b8ef082bbd",
             "type": "leaf",
@@ -121,18 +129,18 @@
             }
           },
           {
-            "id": "2adf18e720a1fb81",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "6cc5d2d3eb32dcaa",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "33dbfcffea06e5af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           },
@@ -142,79 +150,117 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/오픈소스프로그래밍/오픈소스 필기.md"
+                "file": "2. Study/시스템프로그래밍/3강. Floating Point.md"
               }
+            }
+          },
+          {
+            "id": "a72846bc269d7578",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Study/시스템프로그래밍/3강. Floating Point.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30e5a8b06e1b1d02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Study/시스템프로그래밍/3강. Floating Point.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "470ec220e9fa5663",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "random-note:랜덤 노트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "media-extended:Open media": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a10a0817cdb5b15",
+  "active": "264d2e90ec636b15",
   "lastOpenFiles": [
-    "0. Inbox/Pasted image 20241017151205.png",
-    "0. Inbox/Pasted image 20241017151152.png",
-    "0. Inbox/Pasted image 20241017151047.png",
-    "0. Inbox/Pasted image 20241017150646.png",
-    "0. Inbox/Pasted image 20241017150630.png",
-    "0. Inbox/Pasted image 20241017150508.png",
+    "0. Inbox/Pasted image 20241017200111.png",
+    "test.md",
+    "2. Study/시스템프로그래밍/3강. Floating Point.md",
+    "Untitled.md",
     "2. Study/시스템프로그래밍/1강. C언어.md",
+    "0. Inbox/Pasted image 20241017195908.png",
+    "0. Inbox/Pasted image 20241017195242.png",
+    "2. Study/자바프로그래밍/자바 6주차.md",
+    "2. Study/자바프로그래밍/자바 1&2주차.md",
+    "2. Study/자바프로그래밍",
     "2. Study/오픈소스프로그래밍/오픈소스 필기.md",
     "2. Study/오픈소스프로그래밍",
-    "0. Inbox/Pasted image 20241017011414.png",
-    "0. Inbox/Pasted image 20241017010959.png",
-    "0. Inbox/Pasted image 20241017010925.png",
-    "0. Inbox/Pasted image 20241017003357.png",
-    "0. Inbox/Pasted image 20241017003018.png",
-    "2. Study/선형대수/1강. 행렬과 행렬식.md",
     "2. Study/시스템프로그래밍",
-    "2. Study/자바프로그래밍/자바 6주차.md",
+    "2. Study/선형대수/1강. 행렬과 행렬식.md",
     "2. Study/선형대수",
-    "2. Study/자바프로그래밍/자바 1&2주차.md",
-    "1. Diary/1. Daily/2024-10-05.md",
-    "2. Study/오브젝트 풀링.md",
-    "2. Study/유니티 애니메이션.md",
-    "2. Study/백준/무제 파일.md",
-    "2. Study/자바프로그래밍",
-    "2. Study/Minio 설정.md",
-    "1. Diary/1. Daily/2024-09-23.md",
-    "2. Study/스케치업 공부.md",
+    "0. Inbox/Pasted image 20241015155436.png",
+    "0. Inbox/Pasted image 20241015154927.png",
+    "0. Inbox/Pasted image 20241015154756.png",
+    "0. Inbox/Pasted image 20241015154249.png",
+    "0. Inbox/Pasted image 20241015154222.png",
+    "0. Inbox/Pasted image 20241015154154.png",
+    "0. Inbox/Pasted image 20241015152052.png",
+    "0. Inbox/Pasted image 20241015151601.png",
+    "4. Etc/무제 파일.canvas",
     "Obsidian/마크다운 사용법.md",
-    "Obsidian/옵시디언 사용법.md",
-    "Obsidian/옵시디언 단축키.md",
-    "1. Diary/1. Daily/2024-09-10.md",
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+    "2. Study/Minio 설정.md",
+    "2. Study/스케치업 공부.md",
+    "1. Diary/1. Daily/2024-08-28.md",
+    "1. Diary/1. Daily/2024-08-27.md",
+    "2. Study/오브젝트 풀링.md",
+    "2. Study/백준/무제 파일.md",
     "2. Study/백준",
-    "1. Diary/1. Daily/2024-09-02.md",
-    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
     "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
-    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
-    "2. Study/바킹독/실전 알고리즘 0x03 - 배열.md",
+    "2. Study/cpp 기본문법/리스트.md",
     "1. Diary/2. Weekly/2024-W36.md",
-    "private",
+    "1. Diary/1. Daily/2024-09-23.md",
+    "1. Diary/1. Daily/2024-09-10.md",
+    "1. Diary/1. Daily/2024-09-02.md",
+    "1. Diary/1. Daily/2024-08-31.md",
     "2. Study/알쓸유잡",
     "Obsidian/template",
     "2. Study/cpp 기본문법",
     "0. Inbox/channels4_profile.jpg.crdownload",
-    "4. Etc/무제 파일.canvas",
+    "3. Record/유튜브",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
