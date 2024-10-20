@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/자바프로그래밍/자바 1&2주차.md",
+                "file": "2. Study/오픈소스프로그래밍/0. Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바 1&2주차"
+              "title": "0. Git"
             }
           },
           {
@@ -198,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/자바프로그래밍/자바 1&2주차.md"
+                "file": "2. Study/오픈소스프로그래밍/0. Git.md"
               },
               "icon": "lucide-list",
-              "title": "자바 1&2주차 개요"
+              "title": "0. Git 개요"
             }
           },
           {
@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 615.5
+    "width": 615.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,9 +237,12 @@
   },
   "active": "6a10a0817cdb5b15",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20241020234032.png",
+    "2. Study/오픈소스프로그래밍/오픈소스 필기.md",
+    "2. Study/오픈소스프로그래밍/0. Git.md",
+    "2. Study/자바프로그래밍/자바 1&2주차.md",
     "conflict-files-obsidian-git.md",
     "0. Inbox/Pasted image 20241017214301.png",
-    "2. Study/자바프로그래밍/자바 1&2주차.md",
     "test.md",
     "2. Study/시스템프로그래밍/3강. Floating Point.md",
     "0. Inbox/Pasted image 20241017203242.png",
@@ -246,7 +250,6 @@
     "0. Inbox/Pasted image 20241017200111.png",
     "0. Inbox/Pasted image 20241017195908.png",
     "0. Inbox/Pasted image 20241017195242.png",
-    "2. Study/오픈소스프로그래밍/오픈소스 필기.md",
     "0. Inbox/Pasted image 20241017151205.png",
     "0. Inbox/Pasted image 20241017151152.png",
     "0. Inbox/Pasted image 20241017151047.png",
@@ -275,7 +278,6 @@
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
     "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
-    "2. Study/바킹독/실전 알고리즘 0x04 - 연결 리스트.md",
     "private",
     "2. Study/알쓸유잡",
     "Obsidian/template",
