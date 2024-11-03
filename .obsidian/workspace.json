@@ -6,6 +6,7 @@
       {
         "id": "e947ebb9cd632118",
         "type": "tabs",
+        "dimension": 54.51219512195122,
         "children": [
           {
             "id": "6a10a0817cdb5b15",
@@ -51,6 +52,7 @@
       {
         "id": "eb02141d633d2f07",
         "type": "tabs",
+        "dimension": 45.487804878048784,
         "children": [
           {
             "id": "4642cbd0de9fb7e1",
@@ -72,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/cpp 기본문법/벡터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실전 알고리즘 - 학습 관리"
+              "title": "벡터"
             }
           }
         ],
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
+                "file": "2. Study/cpp 기본문법/벡터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 실전 알고리즘 0x09 - BFS"
+              "title": "Backlinks for 벡터"
             }
           },
           {
@@ -172,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
+                "file": "2. Study/cpp 기본문법/벡터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 실전 알고리즘 0x09 - BFS"
+              "title": "Outgoing links from 벡터"
             }
           },
           {
@@ -256,13 +258,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a10a0817cdb5b15",
+  "active": "f42544ea56b45be8",
   "lastOpenFiles": [
-    "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
+    "2. Study/cpp 기본문법/배열.md",
+    "2. Study/cpp 기본문법/리스트.md",
+    "2. Study/cpp 기본문법/입출력.md",
+    "2. Study/cpp 기본문법/페어.md",
+    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
+    "0. Inbox/Pasted image 20241103234803.png",
+    "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
     "private/testtest.md",
     "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
-    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "2. Study/바킹독/실전 알고리즘 - 과제.md",
     "2. Study/바킹독/Untitled",
     "test.md",
@@ -280,7 +287,6 @@
     "0. Inbox/Pasted image 20241017201811.png",
     "0. Inbox/Pasted image 20241017200111.png",
     "0. Inbox/Pasted image 20241017195908.png",
-    "0. Inbox/Pasted image 20241017195242.png",
     "2. Study/시스템프로그래밍/1강. C언어.md",
     "2. Study/오픈소스프로그래밍",
     "2. Study/선형대수/1강. 행렬과 행렬식.md",
@@ -295,10 +301,6 @@
     "2. Study/Minio 설정.md",
     "1. Diary/1. Daily/2024-09-23.md",
     "2. Study/스케치업 공부.md",
-    "Obsidian/마크다운 사용법.md",
-    "Obsidian/옵시디언 사용법.md",
-    "Obsidian/옵시디언 단축키.md",
-    "1. Diary/1. Daily/2024-09-10.md",
     "2. Study/백준",
     "private",
     "2. Study/알쓸유잡",
