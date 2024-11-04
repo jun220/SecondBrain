@@ -20,6 +20,8 @@ https://youtu.be/ftOmGdm95XI?si=9k5VsTIvox5ybxIw
 
 이후에도 pop과 주변 탐색, 맞는 칸을 방문 처리하고 큐에 추가하는 과정을 반복. 큐가 완전히 빈 순간 종료
 
+visited 처리로 모든 칸이 큐에 1번씩만 들어가므로, 시간 복잡도는 칸이 N개일 때 O(N).
+
 ### 태그
 #코딩테스트 #cpp #자료구조
 
