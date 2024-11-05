@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
+                "file": "2. Study/cpp 기본문법/벡터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 실전 알고리즘 0x09 - BFS"
+              "title": "Backlinks for 벡터"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
+                "file": "2. Study/cpp 기본문법/벡터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 실전 알고리즘 0x09 - BFS"
+              "title": "Outgoing links from 벡터"
             }
           },
           {
@@ -258,15 +258,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a10a0817cdb5b15",
+  "active": "f42544ea56b45be8",
   "lastOpenFiles": [
+    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
     "2. Study/cpp 기본문법/벡터.md",
     "2. Study/cpp 기본문법/배열.md",
     "2. Study/cpp 기본문법/리스트.md",
     "2. Study/cpp 기본문법/입출력.md",
     "2. Study/cpp 기본문법/페어.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
-    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
     "0. Inbox/Pasted image 20241103234803.png",
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
     "private/testtest.md",
