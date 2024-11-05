@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/cpp 기본문법/벡터.md",
+                "file": "2. Study/cpp 기본문법/std 자료구조/페어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "벡터"
+              "title": "페어"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/cpp 기본문법/벡터.md",
+                "file": "2. Study/cpp 기본문법/std 자료구조/페어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 벡터"
+              "title": "Backlinks for 페어"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/cpp 기본문법/벡터.md",
+                "file": "2. Study/cpp 기본문법/std 자료구조/페어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 벡터"
+              "title": "Outgoing links from 페어"
             }
           },
           {
@@ -211,14 +211,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f42544ea56b45be8",
+  "active": "f2867c98814a9f8f",
   "lastOpenFiles": [
-    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
-    "2. Study/cpp 기본문법/벡터.md",
-    "2. Study/cpp 기본문법/배열.md",
-    "2. Study/cpp 기본문법/리스트.md",
+    "2. Study/cpp 기본문법/std 자료구조/리스트.md",
     "2. Study/cpp 기본문법/입출력.md",
-    "2. Study/cpp 기본문법/페어.md",
+    "2. Study/cpp 기본문법/std 자료구조/벡터.md",
+    "2. Study/cpp 기본문법/std 자료구조",
+    "2. Study/cpp 기본문법/std 자료구조/배열.md",
+    "2. Study/cpp 기본문법/std 자료구조/페어.md",
+    "2. Study/cpp 기본문법/Untitled.md",
+    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "0. Inbox/Pasted image 20241103234803.png",
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
@@ -252,13 +254,10 @@
     "2. Study/유니티 애니메이션.md",
     "2. Study/백준/무제 파일.md",
     "2. Study/자바프로그래밍",
-    "2. Study/Minio 설정.md",
-    "1. Diary/1. Daily/2024-09-23.md",
     "2. Study/백준",
     "private",
     "2. Study/알쓸유잡",
     "Obsidian/template",
-    "2. Study/cpp 기본문법",
     "4. Etc/무제 파일.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

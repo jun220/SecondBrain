@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
       "LiGem",
       "LiSquareStack",
       "LiBookmark",
@@ -60,5 +61,6 @@
   "Obsidian": {
     "iconName": "LiGem",
     "iconColor": "#3c78f0"
-  }
+  },
+  "2. Study/cpp 기본문법/std 자료구조": "LiDatabase"
 }
