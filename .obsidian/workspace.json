@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 과제.md",
+                "file": "2. Study/cpp 기본문법/std 자료구조/벡터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실전 알고리즘 - 과제"
+              "title": "벡터"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "페어"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/cpp 기본문법/std 자료구조/페어.md",
+                "file": "2. Study/cpp 기본문법/std 자료구조/벡터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 페어"
+              "title": "Backlinks for 벡터"
             }
           },
           {
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/cpp 기본문법/std 자료구조/페어.md",
+                "file": "2. Study/cpp 기본문법/std 자료구조/벡터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 페어"
+              "title": "Outgoing links from 벡터"
             }
           },
           {
@@ -211,14 +210,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2867c98814a9f8f",
+  "active": "4642cbd0de9fb7e1",
   "lastOpenFiles": [
+    "2. Study/cpp 기본문법/std 자료구조/페어.md",
+    "2. Study/바킹독/실전 알고리즘 - 과제.md",
     "2. Study/cpp 기본문법/std 자료구조/리스트.md",
     "2. Study/cpp 기본문법/입출력.md",
     "2. Study/cpp 기본문법/std 자료구조/벡터.md",
     "2. Study/cpp 기본문법/std 자료구조",
     "2. Study/cpp 기본문법/std 자료구조/배열.md",
-    "2. Study/cpp 기본문법/std 자료구조/페어.md",
     "2. Study/cpp 기본문법/Untitled.md",
     "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
@@ -226,7 +226,6 @@
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
     "private/testtest.md",
     "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
-    "2. Study/바킹독/실전 알고리즘 - 과제.md",
     "2. Study/바킹독/Untitled",
     "test.md",
     "2. Study/오픈소스프로그래밍/0. Git.md",
