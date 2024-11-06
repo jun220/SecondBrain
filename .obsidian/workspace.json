@@ -13,14 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/cpp 기본문법/std 자료구조/벡터.md",
+                "file": "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "벡터"
+              "title": "실전 알고리즘 0x09 - BFS"
             }
           },
+          {
+            "id": "3a9b369593377b9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ecff5906f4a38dd",
+        "type": "tabs",
+        "children": [
           {
             "id": "f42544ea56b45be8",
             "type": "leaf",
@@ -213,14 +231,17 @@
   "active": "4642cbd0de9fb7e1",
   "lastOpenFiles": [
     "2. Study/cpp 기본문법/std 자료구조/페어.md",
+    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
+    "2. Study/Minio 설정.md",
+    "2. Study/유니티 애니메이션.md",
+    "2. Study/오브젝트 풀링.md",
+    "2. Study/cpp 기본문법/std 자료구조/벡터.md",
     "2. Study/바킹독/실전 알고리즘 - 과제.md",
     "2. Study/cpp 기본문법/std 자료구조/리스트.md",
     "2. Study/cpp 기본문법/입출력.md",
-    "2. Study/cpp 기본문법/std 자료구조/벡터.md",
     "2. Study/cpp 기본문법/std 자료구조",
     "2. Study/cpp 기본문법/std 자료구조/배열.md",
     "2. Study/cpp 기본문법/Untitled.md",
-    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
     "0. Inbox/Pasted image 20241103234803.png",
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
@@ -249,8 +270,6 @@
     "2. Study/자바프로그래밍/자바 6주차.md",
     "2. Study/선형대수",
     "1. Diary/1. Daily/2024-10-05.md",
-    "2. Study/오브젝트 풀링.md",
-    "2. Study/유니티 애니메이션.md",
     "2. Study/백준/무제 파일.md",
     "2. Study/자바프로그래밍",
     "2. Study/백준",
