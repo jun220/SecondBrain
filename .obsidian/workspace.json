@@ -62,21 +62,9 @@
               "icon": "lucide-file",
               "title": "3강. Floating Point"
             }
-          },
-          {
-            "id": "9cf0e17e3799369d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md"
+                "file": "2. Study/시스템프로그래밍/3강. Floating Point.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 실전 알고리즘 - 학습 관리"
+              "title": "Outline of 3강. Floating Point"
             }
           },
           {
@@ -194,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/시스템프로그래밍/3강. Floating Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 실전 알고리즘 - 학습 관리"
+              "title": "Backlinks for 3강. Floating Point"
             }
           },
           {
@@ -213,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+                "file": "2. Study/시스템프로그래밍/3강. Floating Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 실전 알고리즘 - 학습 관리"
+              "title": "Outgoing links from 3강. Floating Point"
             }
           },
           {
@@ -252,8 +240,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9cf0e17e3799369d",
+  "active": "264d2e90ec636b15",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "private/testtest.md",
+    "private",
+    "2. Study/오픈소스프로그래밍/0. Git.md",
+    "2. Study/바킹독/실전 알고리즘 0x10 - DFS.md",
+    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
+    "2. Study/바킹독/실전 알고리즘 - 과제.md",
+    "2. Study/cpp 기본문법/std 자료구조/페어.md",
+    "2. Study/cpp 기본문법/std 자료구조/튜플.md",
+    "2. Study/cpp 기본문법/std 자료구조/벡터.md",
+    "2. Study/cpp 기본문법/std 자료구조/리스트.md",
+    "2. Study/cpp 기본문법/std 자료구조/배열.md",
+    "2. Study/cpp 기본문법/std 자료구조",
+    "0. Inbox/Pasted image 20241112150145.png",
+    "0. Inbox/Pasted image 20241103234803.png",
+    "0. Inbox/Pasted image 20241021003605.png",
+    "0. Inbox/Pasted image 20241021003555.png",
+    "0. Inbox/Pasted image 20241020234515.png",
+    "0. Inbox/Pasted image 20241020234032.png",
     "0. Inbox/Pasted image 20241017214301.png",
     "0. Inbox/Pasted image 20241017203242.png",
     "0. Inbox/Pasted image 20241017201811.png",
@@ -262,8 +269,6 @@
     "2. Study/시스템프로그래밍/3강. Floating Point.md",
     "Untitled.md",
     "2. Study/시스템프로그래밍/1강. C언어.md",
-    "0. Inbox/Pasted image 20241017195908.png",
-    "0. Inbox/Pasted image 20241017195242.png",
     "2. Study/자바프로그래밍/자바 6주차.md",
     "2. Study/자바프로그래밍/자바 1&2주차.md",
     "2. Study/자바프로그래밍",
@@ -272,11 +277,6 @@
     "2. Study/시스템프로그래밍",
     "2. Study/선형대수/1강. 행렬과 행렬식.md",
     "2. Study/선형대수",
-    "0. Inbox/Pasted image 20241015155436.png",
-    "0. Inbox/Pasted image 20241015154927.png",
-    "0. Inbox/Pasted image 20241015154756.png",
-    "0. Inbox/Pasted image 20241015154249.png",
-    "0. Inbox/Pasted image 20241015154222.png",
     "4. Etc/무제 파일.canvas",
     "Obsidian/마크다운 사용법.md",
     "2. Study/바킹독/실전 알고리즘 0x08 - 스택의 활용.md",
@@ -285,22 +285,10 @@
     "1. Diary/1. Daily/2024-08-28.md",
     "1. Diary/1. Daily/2024-08-27.md",
     "2. Study/오브젝트 풀링.md",
-    "2. Study/백준/무제 파일.md",
     "2. Study/백준",
-    "2. Study/바킹독/실전 알고리즘 0x07 - 덱.md",
-    "2. Study/바킹독/실전 알고리즘 0x06 - 큐.md",
-    "2. Study/바킹독/실전 알고리즘 0x05 - 스택.md",
-    "2. Study/cpp 기본문법/리스트.md",
-    "1. Diary/2. Weekly/2024-W36.md",
-    "1. Diary/1. Daily/2024-09-23.md",
-    "1. Diary/1. Daily/2024-09-10.md",
-    "1. Diary/1. Daily/2024-09-02.md",
-    "1. Diary/1. Daily/2024-08-31.md",
     "2. Study/알쓸유잡",
     "Obsidian/template",
     "2. Study/cpp 기본문법",
-    "0. Inbox/channels4_profile.jpg.crdownload",
-    "3. Record/유튜브",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
