@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "62bf650e793e314d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "3a9b369593377b9a",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +221,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4642cbd0de9fb7e1",
+  "active": "62bf650e793e314d",
   "lastOpenFiles": [
     "2. Study/바킹독/실전 알고리즘 - 과제.md",
     "2. Study/오픈소스프로그래밍/디자인패턴.md",
