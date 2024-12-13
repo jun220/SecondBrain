@@ -13,36 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/오픈소스프로그래밍/디자인패턴.md",
+                "file": "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "디자인패턴"
+              "title": "실전 알고리즘 011 - 재귀"
             }
           },
           {
-            "id": "62bf650e793e314d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "23947fa4bf5b7834",
+            "id": "b7a3989bfff72be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/오픈소스프로그래밍/디자인패턴.md",
+                "file": "2. Study/오픈소스프로그래밍/UML, 클래스 다이어그램.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "디자인패턴"
+              "title": "UML, 클래스 다이어그램"
+            }
+          },
+          {
+            "id": "6755916328710cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Study/cpp 기본문법/std 자료구조/페어.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "페어"
             }
           },
           {
@@ -58,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,12 +217,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 615.5,
-    "collapsed": true
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,8 +236,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "23947fa4bf5b7834",
+  "active": "b7a3989bfff72be0",
   "lastOpenFiles": [
+    "2. Study/오픈소스프로그래밍/디자인패턴.md",
+    "2. Study/오픈소스프로그래밍/UML, 클래스 다이어그램.md",
+    "0. Inbox/Pasted image 20241214014416.png",
+    "2. Study/시스템프로그래밍/8강. Machine-Level Programming.md",
     "0. Inbox/Pasted image 20241213203545.png",
     "0. Inbox/Pasted image 20241213154827.png",
     "0. Inbox/Pasted image 20241213154633.png",
@@ -243,35 +250,31 @@
     "0. Inbox/Pasted image 20241213153155.png",
     "0. Inbox/Pasted image 20241213153043.png",
     "0. Inbox/Pasted image 20241213152936.png",
-    "2. Study/시스템프로그래밍/8강. Machine-Level Programming.md",
-    "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
+    "0. Inbox/Pasted image 20241202034253.png",
     "2. Study/바킹독/실전 알고리즘 010 - DFS.md",
-    "2. Study/바킹독/실전 알고리즘 009 - BFS.md",
-    "2. Study/바킹독/실전 알고리즘 008 - 스택의 활용.md",
-    "2. Study/바킹독/실전 알고리즘 007 - 덱.md",
     "2. Study/바킹독/실전 알고리즘 006 - 큐.md",
+    "2. Study/바킹독/실전 알고리즘 008 - 스택의 활용.md",
+    "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
+    "conflict-files-obsidian-git.md",
+    "2. Study/cpp 기본문법/std 자료구조/페어.md",
+    "2. Study/바킹독/실전 알고리즘 009 - BFS.md",
+    "2. Study/바킹독/실전 알고리즘 007 - 덱.md",
     "2. Study/바킹독/실전 알고리즘 005 - 스택.md",
     "2. Study/바킹독/실전 알고리즘 004 - 연결 리스트.md",
     "2. Study/바킹독/실전 알고리즘 003 - 배열.md",
     "2. Study/바킹독/실전 알고리즘 002 - 기초코드2.md",
     "2. Study/바킹독/실전 알고리즘 001 - 기초코드1.md",
-    "0. Inbox/Pasted image 20241202034253.png",
-    "0. Inbox/Pasted image 20241202033312.png",
-    "0. Inbox/Pasted image 20241202000252.png",
+    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
+    "2. Study/오픈소스프로그래밍/0. Git.md",
     "2. Study/바킹독/실전 알고리즘 - 과제.md",
-    "2. Study/오픈소스프로그래밍/디자인패턴.md",
     "2. Study/cpp 기본문법/std 자료구조/튜플.md",
-    "2. Study/cpp 기본문법/std 자료구조/페어.md",
     "2. Study/cpp 기본문법/std 자료구조/벡터.md",
-    "2. Study/바킹독/실전 알고리즘 0x09 - BFS.md",
-    "2. Study/바킹독/실전 알고리즘 0x10 - DFS.md",
     "2. Study/Minio 설정.md",
     "2. Study/유니티 애니메이션.md",
     "2. Study/오브젝트 풀링.md",
     "2. Study/cpp 기본문법/std 자료구조/리스트.md",
     "2. Study/cpp 기본문법/입출력.md",
     "2. Study/cpp 기본문법/std 자료구조",
-    "2. Study/cpp 기본문법/std 자료구조/배열.md",
     "2. Study/바킹독/Untitled",
     "2. Study/오픈소스프로그래밍",
     "2. Study/시스템프로그래밍",
