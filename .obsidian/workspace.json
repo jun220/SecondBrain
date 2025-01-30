@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
+                "file": "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실전 알고리즘 0x00 - 오리엔테이션"
+              "title": "실전 알고리즘 011 - 재귀"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "2. event"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5110321044922,
-    "collapsed": true
+    "width": 300.5110321044922
   },
   "right": {
     "id": "de81d6da25d85fe0",
@@ -212,23 +210,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c1b7df79eba3ce5",
+  "active": "4a9b1197076c8259",
   "lastOpenFiles": [
-    "2. Study/노마드 js/1. 브라우저와 js.md",
+    "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
+    "2. Study/바킹독/실전 알고리즘 010 - DFS.md",
+    "2. Study/바킹독/실전 알고리즘 009 - BFS.md",
+    "2. Study/바킹독/실전 알고리즘 008 - 스택의 활용.md",
+    "2. Study/바킹독/실전 알고리즘 - 과제.md",
+    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
     "2. Study/노마드 js/2. event.md",
+    "2. Study/노마드 js/1. 브라우저와 js.md",
     "2. Study/노마드 js/0. js 기본 문법.md",
     "Obsidian/template/태그.md",
     "Untitled.md",
-    "2. Study/바킹독/실전 알고리즘 0x00 - 오리엔테이션.md",
-    "2. Study/바킹독/실전 알고리즘 - 과제.md",
     "2. Study/선형대수/1강. 행렬과 행렬식.md",
     "2. Study/오픈소스프로그래밍/디자인패턴.md",
     "1. Diary/1. Daily/2025-01-30.md",
     "2. Study/Untitled.md",
     "2. Study/노마드 js",
     "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
-    "2. Study/바킹독/실전 알고리즘 010 - DFS.md",
-    "2. Study/바킹독/실전 알고리즘 009 - BFS.md",
     "0. Inbox/Pasted image 20241214062109.png",
     "0. Inbox/Pasted image 20241214062018.png",
     "conflict-files-obsidian-git.md",
@@ -243,14 +243,12 @@
     "0. Inbox/Pasted image 20241214020807.png",
     "0. Inbox/Pasted image 20241214020718.png",
     "2. Study/시스템프로그래밍/8강. Machine-Level Programming.md",
-    "2. Study/바킹독/실전 알고리즘 008 - 스택의 활용.md",
     "2. Study/바킹독/실전 알고리즘 007 - 덱.md",
     "2. Study/바킹독/실전 알고리즘 006 - 큐.md",
     "2. Study/바킹독/실전 알고리즘 005 - 스택.md",
     "2. Study/바킹독/실전 알고리즘 004 - 연결 리스트.md",
     "2. Study/바킹독/실전 알고리즘 003 - 배열.md",
     "2. Study/바킹독/실전 알고리즘 002 - 기초코드2.md",
-    "2. Study/바킹독/실전 알고리즘 001 - 기초코드1.md",
     "2. Study/cpp 기본문법/std 자료구조",
     "2. Study/바킹독/Untitled",
     "2. Study/오픈소스프로그래밍",
