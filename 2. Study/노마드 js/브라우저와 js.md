@@ -1,4 +1,48 @@
-## document object
+## document object 활용
 **document** : html 전체를 가리키는 object.
 `document.title` 처럼 속성값을 가져와 활용하거나, 변경할 수도 있음
 
+id, class, 태그 종류 등을 통해 원하는 요소를 가져올 수도 있음
+##### id 사용
+```js
+<body>
+    <h1 id="hello">Grab me!</h1>
+</body>
+```
+기본적으로 id는 유일해야 하기에 바로 요소를 가져올 수 있음
+`let title = document.getElementById("title")`
+
+이때 요소를 수정하려면 title 객체 자체를 덮어씌울 수도 있지만, 내용을 바꾸려면 innerText를 사용한다. ex> `title.innerText = "Changed title"`
+
+`let hellos = document.getElementsByClassName("hello");`
+
+##### class 사용
+```js
+<body>
+    <h1 class="hello">Grab me!</h1>
+    <h1 class="hello">Grab me!</h1>
+</body>
+```
+class 는 여러번 사용될 수 있으므로, 요소도 한번에 여러개를 가져오게 됨
+`let hellos = document.getElementsByClassName("hello")`
+
+`HTMLCollection(5) [h1.hello, h1.hello, h1.hello, h1.hello, h1.hello]`
+이런식으로 HTMLCollection을 받게 되는데, 이는 **array-like object**로, 기능은 list와 유사하다.
+
+map, forEach등 바로 사용할 수 없는 기능들이 몇개 있으니, 이런 기능이 필요하다면 list 등으로 변환해야 한다.
+`let helloList = Array.from(hellos);`
+
+##### tag 사용
+```
+
+```
+
+```js
+<body>
+  <div class="hello">
+    <h1>Grab me!</h1>
+  </div>
+</body>
+```
+가져와야할 요소가 div 클래스가 아니라, 그 내부에 있는 h1인 경우.
+우선은 div를 가져온 후, 내부의 객체에 접근하면 된다.
