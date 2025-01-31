@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/바킹독/실전 알고리즘 012 - 백트래킹.md",
+                "file": "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실전 알고리즘 012 - 백트래킹"
+              "title": "실전 알고리즘 011 - 재귀"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -198,8 +199,8 @@
   },
   "active": "3c1b7df79eba3ce5",
   "lastOpenFiles": [
-    "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
     "2. Study/바킹독/실전 알고리즘 012 - 백트래킹.md",
+    "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
     "2. Study/바킹독/실전 알고리즘 009 - BFS.md",
     "2. Study/노마드 js/2. event.md",
     "2. Study/오브젝트 풀링.md",
