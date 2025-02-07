@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFactory",
       "LiDatabase",
       "LiGem",
       "LiSquareStack",
@@ -54,13 +55,17 @@
     "iconName": "LiPencil",
     "iconColor": "#28b4dc"
   },
-  "4. Etc": {
-    "iconName": "LiSquareStack",
-    "iconColor": "#3c78f0"
-  },
   "Obsidian": {
     "iconName": "LiGem",
     "iconColor": "#3c78f0"
   },
-  "2. Study/cpp 기본문법/std 자료구조": "LiDatabase"
+  "2. Study/cpp 기본문법/std 자료구조": "LiDatabase",
+  "5. Etc": {
+    "iconName": "LiSquareStack",
+    "iconColor": "#3c78f0"
+  },
+  "4. Project": {
+    "iconName": "LiFactory",
+    "iconColor": "#65c2dc"
+  }
 }
