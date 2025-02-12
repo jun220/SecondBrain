@@ -233,8 +233,7 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media": false,
-      "periodic-notes:Open today": false
+      "media-extended:Open media": false
     }
   },
   "active": "23947fa4bf5b7834",
