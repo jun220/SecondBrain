@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#자료구조",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -111,7 +111,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,10 +234,11 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "23947fa4bf5b7834",
+  "active": "9a4f4b4dea3611ba",
   "lastOpenFiles": [
     "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
     "2. Study/바킹독/실전 알고리즘 010 - DFS.md",
