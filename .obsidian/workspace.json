@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#자료구조",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9a4f4b4dea3611ba",
+  "active": "23947fa4bf5b7834",
   "lastOpenFiles": [
     "2. Study/바킹독/실전 알고리즘 011 - 재귀.md",
     "2. Study/바킹독/실전 알고리즘 010 - DFS.md",
