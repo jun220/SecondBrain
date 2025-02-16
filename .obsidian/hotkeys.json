@@ -40,6 +40,13 @@
         "Shift"
       ],
       "key": "Y"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
     }
   ],
   "obsidian-thumbnails:insert-video-title-link": [
