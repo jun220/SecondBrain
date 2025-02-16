@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Record/관리/너드킹.md",
-                "mode": "preview",
+                "file": "3. Record/관리/목소리&노래.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "너드킹"
+              "title": "목소리&노래"
             }
           }
         ]
@@ -201,9 +201,12 @@
   },
   "active": "1390a6af616741da",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20250217050421.png",
+    "3. Record/유튜브/나중에 볼 동영상.md",
+    "3. Record/관리/목소리&노래.md",
+    "3. Record/관리/너드킹.md",
     "3. Record/관리/1. 피부관리.md",
     "3. Record/나중에 볼 글.md",
-    "3. Record/관리/너드킹.md",
     "0. Inbox/Pasted image 20250217035958.png",
     "0. Inbox/Pasted image 20250217035756.png",
     "0. Inbox/Pasted image 20250217035505.png",
@@ -216,7 +219,6 @@
     "0. Inbox/Pasted image 20250217032839.png",
     "0. Inbox/Pasted image 20250217032809.png",
     "3. Record/관리/피부는 민동성.md",
-    "3. Record/유튜브/나중에 볼 동영상.md",
     "3. Record/유튜브/유니티 알쓸유잡.md",
     "3. Record/유튜브/썸네일 테스트.md",
     "Obsidian/옵시디언 단축키.md",
@@ -243,8 +245,6 @@
     "4. Project/크롬 익스텐션",
     "4. Project",
     "2. Study/노마드 js/7. Date.md",
-    "2. Study/노마드 js/6. interval.md",
-    "2. Study/노마드 js/4. input.md",
     "2. Study/노마드 js",
     "2. Study/cpp 기본문법/std 자료구조",
     "2. Study/바킹독/Untitled",
