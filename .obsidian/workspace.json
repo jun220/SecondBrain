@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Record/관리/1. 피부관리.md",
-                "mode": "source",
+                "file": "3. Record/관리/너드킹.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 피부관리"
+              "title": "너드킹"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "1390a6af616741da",
   "lastOpenFiles": [
-    "3. Record/나중에 볼 글.md",
     "3. Record/관리/1. 피부관리.md",
+    "3. Record/나중에 볼 글.md",
     "3. Record/관리/너드킹.md",
     "0. Inbox/Pasted image 20250217035958.png",
     "0. Inbox/Pasted image 20250217035756.png",
