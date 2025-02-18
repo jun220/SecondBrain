@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/template/클린코드 TIL.md",
+                "file": "2. Study/클린 코드/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클린코드 TIL"
+              "title": "Untitled"
             }
           }
         ]
@@ -201,8 +201,12 @@
   },
   "active": "1390a6af616741da",
   "lastOpenFiles": [
+    "2. Study/지옥에서 온 관리자 git/버전 관리 시스템의 역사.md",
+    "2. Study/클린 코드/Untitled.md",
+    "2. Study/클린 코드",
+    "2. Study/클린 코드.md",
+    "Obsidian/template/📚 Clean Code TIL ({{date}}).md",
     "3. Record/유튜브/나중에 볼 동영상.md",
-    "Obsidian/template/클린코드 TIL.md",
     "3. Record/나중에 볼 글.md",
     "3. Record/관리/턱살&거북목.md",
     "3. Record/관리/패션.md",
@@ -224,7 +228,6 @@
     "3. Record/유튜브/유니티 알쓸유잡.md",
     "3. Record/유튜브/썸네일 테스트.md",
     "Obsidian/옵시디언 단축키.md",
-    "2. Study/지옥에서 온 관리자 git/버전 관리 시스템의 역사.md",
     "3. Record/관리",
     "2. Study/지옥에서 온 관리자 git/Git 탄생 & Github.md",
     "private/testtest.md",
@@ -239,8 +242,6 @@
     "4. Etc/무제 파일.canvas",
     "4. Etc",
     "2. Study/바킹독/실전 알고리즘 - 학습 관리.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
     "5. Etc/무제 파일.canvas",
     "5. Etc",
     "4. Project/크롬 익스텐션",
@@ -248,7 +249,6 @@
     "2. Study/노마드 js",
     "2. Study/cpp 기본문법/std 자료구조",
     "2. Study/바킹독/Untitled",
-    "2. Study/오픈소스프로그래밍",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
